@@ -181,6 +181,7 @@ GEM
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
     net-ssh (2.6.3)
+    newrelic_rpm (3.5.8.70)
     nokogiri (1.5.6)
     orm_adapter (0.4.0)
     polyglot (0.3.3)
@@ -258,6 +259,7 @@ DEPENDENCIES
   compass-rails (~> 1.0.2)
   locomotive-heroku (~> 0.0.2)
   locomotive_cms (~> 2.0.0.rc12)
+  newrelic_rpm
   rails (= 3.2.11)
   sass-rails (~> 3.2.4)
   thin
